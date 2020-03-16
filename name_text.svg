@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 355 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(1.18219,0,0,1,0,0)">
+        <rect x="0" y="0" width="300" height="120" style="fill:none;"/>
+        <g transform="matrix(1.55234,0,0,1.83516,-44.1394,9.83502)">
+            <text x="32.329px" y="42.493px" style="font-family:'IBMPlexSans-SemiBold', 'IBM Plex Sans', sans-serif;font-weight:600;font-size:35.448px;fill:rgb(255,120,125);">t<tspan x="44.842px 64.02px 81.602px 101.842px 122.083px 131.264px 159.374px 178.729px 192.057px " y="42.493px 42.493px 42.493px 42.493px 42.493px 42.493px 42.493px 42.493px 42.493px ">echniworm</tspan></text>
+        </g>
+        <g transform="matrix(1.78972,0,0,2.11579,-57.0049,-4.93439)">
+            <text x="32.329px" y="42.493px" style="font-family:'BlackletterExtraBold', 'Blackletter';font-size:35.448px;fill:rgb(36,82,187);">t<tspan x="43.779px 58.242px 72.669px 90.464px 107.479px 116.624px 140.835px 157.46px 172.49px " y="42.493px 42.493px 42.493px 42.493px 42.493px 42.493px 42.493px 42.493px 42.493px ">echniworm</tspan></text>
+        </g>
+    </g>
+</svg>
